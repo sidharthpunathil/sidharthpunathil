@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there it's me Sidharth 👋
 
-<!--
-**sidharthpunathil/sidharthpunathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/sidharthpunathil/sidharthpunathil.svg)](http://hits.dwyl.com/sidharthpunathil/sidharthpunathil)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning everyday, currently learning to master django, react..
+- 📬 How to reach me: <a href="mailto:sidharthpunathil714@gmail.com">Let's get in touch!</a>
+- ⚡ Fun fact: I'm a mallu
+
+
+### Other places you can find me
+
+🐣 [See my Tweets](https://twitter.com/iamsidharthp)
