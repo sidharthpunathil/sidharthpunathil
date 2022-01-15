@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Learning everyday, currently learning to master django, vue.js..
+- 🌱 Learning everyday, currently exploring web3..
 - 📬 How to reach me: <a href="mailto:sidharthpunathil714@gmail.com">Let's get in touch!</a>
 
 ### Other places you can find me
