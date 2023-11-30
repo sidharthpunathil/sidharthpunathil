@@ -3,5 +3,5 @@
 here are some ideas to get you started:
 - 👨‍🍳 sup? brewing the backend potion
 - 🥊 sport: exploring loopholes + POC  
-- 🐉 fun fact: god let me keep my private repos
+- 🐉 fact: god let me keep my private repos
 - [`@`](mailto:sidharthpunathil714@gmail.com) · [`$`](https://www.buymeacoffee.com/sidharthp) · [`/site`](https://sidharthpunathil.github.io) · [`/linkedin`](https://linkedin.com/in/sidharthpunathil)
