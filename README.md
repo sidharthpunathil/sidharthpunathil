@@ -1,6 +1,6 @@
 
 ### sid & ai <img align="right" src="https://komarev.com/ghpvc/?username=sidharthpunathil&color=blueviolet">
- [`@`](mailto:sidharthpunathil714@gmail.com) · [`$`](https://www.buymeacoffee.com/sidharthp) · [`/site`](https://sidharthpunathil.github.io) · [`/linkedin`](https://linkedin.com/in/sidharthpunathil)
+ [`@`](mailto:sidharthpunathil714@gmail.com) · [`$`](https://www.buymeacoffee.com/sidharthp) · [`/home/sid`](https://sidharth.co/) · [`/bin`](https://linkedin.com/in/sidharthpunathil)
 
 ----
 
