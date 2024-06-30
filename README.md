@@ -6,6 +6,4 @@
 
 ```
 - 👨‍🍳 sup? brewing the backend potion
-- 🥊 sport: exploring loopholes + POC  
-- 🐉 fact: god let me keep my private repos
 ```
