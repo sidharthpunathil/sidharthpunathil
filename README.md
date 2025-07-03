@@ -5,7 +5,4 @@
 
 ----
 
-```
- <l>the most fun outcome is the most likely</l>
-```
 
